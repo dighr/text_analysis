@@ -1,6 +1,6 @@
 # Text Analysis
 In this project, we aim to categorize survey responses as shown in the example below
-![Alt text](examples/example1.png?raw=true "Main Page")
+![Alt text](examples/example1.png?raw=true "Example")
 ## Proposed Solution
 - Obtaining Survey Responses data:
 - Feature Extraction: 
@@ -14,4 +14,5 @@ In this project, we aim to categorize survey responses as shown in the example b
  - Feature Extruction tools
    * https://code.google.com/archive/p/word2vec/
    * https://nlp.stanford.edu/projects/glove/
-    
+   * https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/
+   
