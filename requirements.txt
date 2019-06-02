@@ -1,0 +1,8 @@
+Pandas
+Scikit-learn
+XGBoost
+TextBlob
+Keras
+numpy
+gensim
+matplotlib
