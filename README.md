@@ -1,6 +1,6 @@
 # Text Analysis
 In this project, we aim to categorize survey responses as shown in the example below
-![Alt text](./examples/example1.png?raw=true "Example")
+![Alt text](examples/example1.PNG?raw=true "Example")
 ## Proposed Solution:
   TODO
 ## Resources + Tutorials:
