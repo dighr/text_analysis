@@ -30,7 +30,7 @@ def predicted_category(query):
   for word, embed in data_embeddings.items():
     category = categories[word]
     dist = query_embed.dot(embed)
-    dist /= len(data[category])
+    # dist /= len(data[category])
     scores[category] = scores.get(category, 0) + dist
 
   # get category with max score
